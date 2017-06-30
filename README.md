@@ -5,3 +5,5 @@
 
 apk戳[这里](http://pan.baidu.com/s/1dF7t6Dz)
 
+![image](https://github.com/zx-Zhu/MyFlappyBird/raw/master/screenshot.png)
+
